@@ -12,6 +12,8 @@ function App() {
       world: 'mundo',
       example: 'halimbawa',
       me: 'ako',
+      you: 'ikaw',
+      sila: 'them',
       // Add more translations as needed
     };
 
