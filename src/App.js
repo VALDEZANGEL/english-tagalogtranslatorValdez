@@ -13,7 +13,7 @@ function App() {
       example: 'halimbawa',
       me: 'ako',
       you: 'ikaw',
-      sila: 'them',
+      them: 'sila',
       // Add more translations as needed
     };
 
