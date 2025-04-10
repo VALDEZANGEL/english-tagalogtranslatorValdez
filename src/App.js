@@ -10,7 +10,8 @@ function App() {
     const translations = {
       hello: 'kamusta',
       world: 'mundo',
-      example: 'halimbawa'
+      example: 'halimbawa',
+      me: 'ako',
       // Add more translations as needed
     };
 
