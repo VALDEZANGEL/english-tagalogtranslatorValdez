@@ -14,6 +14,24 @@ function App() {
       me: 'ako',
       you: 'ikaw',
       them: 'sila',
+      this: 'ito',
+      that: 'yan',
+      these: 'ito',
+      those: 'yan',
+      ghost: 'multo',
+      house: 'bahay',
+      car: 'sasakyan',
+      tree: 'kamote',
+      dog: 'aso',
+      cat: 'pusa',
+      bird: 'ibon',
+      sun: 'araw',
+      moon: 'buwan',
+      water: 'tubig',
+      fire: 'apoy',
+      dirt: 'lupa',
+      dirty: 'madumi',
+      rain: 'ulan'
       // Add more translations as needed
     };
 
