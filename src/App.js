@@ -31,7 +31,20 @@ function App() {
       fire: 'apoy',
       dirt: 'lupa',
       dirty: 'madumi',
-      rain: 'ulan'
+      rain: 'ulan',
+      nature: 'kalikasan',
+      love: 'pag-ibig',
+      envy: 'pag-iinggit',
+      table: 'lamesa',
+      room: 'kuwarto',
+      chair: 'upuan',
+      bed: 'kama',
+      door: 'pintuan',
+      window: 'bintana',
+      wall: 'pader',
+      floor: 'sahig',
+      ceiling: 'kisame',
+      roof: 'bubong'
       // Add more translations as needed
     };
 
